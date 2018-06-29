@@ -11,11 +11,11 @@
 <a id="intro" rel="bookmark"></a>
 # Introduction
 
-The initial draft of this is actually been created based on an excellent StackOverflow answer, "[git branch naming best practices](http://stackoverflow.com/a/6065944/171217)".
+The initial draft of this was created based on an excellent StackOverflow answer, "[git branch naming best practices](http://stackoverflow.com/a/6065944/171217)".
 
 ## Similar guides
 
-Here are some in which I've taken inspiration from and deserve attribution.
+Here are some in which I've taken inspiration from and deserve attribution:
 
 * [https://github.com/agis-/git-style-guide](https://github.com/agis-/git-style-guide)
 * [https://github.com/thoughtbot/guides/tree/master/protocol/git](https://github.com/thoughtbot/guides/tree/master/protocol/git)
