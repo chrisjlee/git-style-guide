@@ -33,7 +33,7 @@ This guide is intended to help newcomers understand git quickly and quickly adop
 <a id="workflow" rel="bookmark"></a>
 # Workflow
 
-In projects in which patches are numerous and quickly generated, it's prudent to utilize a proper workflow. In doing so it'll prevent git from becoming an impediment upon the team. Vincent Driessen in 2010 wrote [a seminal article](http://nvie.com/posts/a-successful-git-branching-model/) titled, "A successful Git branching model", and described what now know as *git-flow model*.
+In projects in which patches are numerous and quickly generated, it's prudent to utilize a proper workflow. In doing so it'll prevent git from becoming an impediment upon the team. Vincent Driessen in 2010 wrote [a seminal article](http://nvie.com/posts/a-successful-git-branching-model/) titled, "A successful Git branching model", and described what is now known as the *git-flow model*.
 
 ## Gitflow priniciples in a nutshell
 
