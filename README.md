@@ -45,6 +45,7 @@ In projects in which patches are numerous and quickly generated, it's prudent to
 
 [Back to the top](#toc)
 <hr />
+
 # Merging Standards
 <a id="merging-standards"></a>
 
@@ -210,6 +211,7 @@ On the other hand long branch names can be more helpful in "merge commits" if yo
 [Back to the top](#toc)
 <hr />
 <a id="versioning"></a>
+
 # Versioning
 
 
